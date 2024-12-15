@@ -76,6 +76,9 @@ I'm a Application Developer and Test Engineer.
 
 # 📃 Latest Posts(最近の投稿)
 <!-- BLOG-POST-LIST:START -->
+- [【Let’s Encrypt】DNSのAPIを使用して簡略化する](https://zenn.dev/wakyadev/articles/bb529c5c0e04a3)
+- [某N社のゲームソフトを検索できる機能を作ったハナシ](https://zenn.dev/wakyadev/articles/78d7277e1196ef)
+- [WordPressで任意のPHPコードを呼び出す方法](https://zenn.dev/wakyadev/articles/206019c5d287d4)
 <!-- BLOG-POST-LIST:END -->
 
 # 🏃‍♀️ Github Activities(Githubでの活動)
