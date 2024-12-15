@@ -81,7 +81,7 @@ I'm a Application Developer and Test Engineer.
 - [WordPressで任意のPHPコードを呼び出す方法](https://zenn.dev/wakyadev/articles/206019c5d287d4)
 <!-- BLOG-POST-LIST:END -->
 
-# 🏃‍♀️ Github Activities(Githubでの活動)
+# 🐙 Github Activities(Githubでの活動)
 <div align="left"> 
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=wakyadev&theme=light&layout=compact" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakyadev&theme=light&layout=compact" />
