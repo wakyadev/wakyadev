@@ -18,7 +18,7 @@ I'm a Application Developer and Test Engineer.
 
 |Item|Content|
 |---|---|
-|name|ID:wakya (ailias:イッキ)|
+|name|ID:wakya (alias:イッキ)|
 |Github|https://github.com/wakyadev|
 |Zenn|https://zenn.dev/wakyadev|
 
