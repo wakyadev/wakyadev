@@ -24,8 +24,11 @@ I'm a Application Developer and Test Engineer.
 
 ## 😍 Likes(趣味)
 - Video Games (mainly Nintendo titles)
+  メインの趣味はゲームです。主に任天堂製品を触ってます。
 - Web App Development
+  Laravel等を使用して個人開発をしています。作成したWebアプリはその他の活動を参照ください。
 - Running
+  デスクワークは歩かなくなりがちなので、健康維持程度にランニングしてます。
 
 ## 🌱 Skills(スキル)
 <div align="left"> 
