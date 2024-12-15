@@ -10,7 +10,6 @@
   </a>
 </div>
 
-# 👋 About Me(自己紹介)
 ## 🙂 Basic Information(概要)
 I'm a Application Developer and Test Engineer.
 
@@ -28,7 +27,7 @@ I'm a Application Developer and Test Engineer.
 - Web App Development
 - Running
 
-# 🌱 Skills(スキル)
+## 🌱 Skills(スキル)
 <div align="left"> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -74,23 +73,23 @@ I'm a Application Developer and Test Engineer.
     </a>
 </div>
 
-# 📃 Latest Posts(最近の投稿)
+## 📃 Latest Posts(最近の投稿)
 <!-- BLOG-POST-LIST:START -->
 - [【Let’s Encrypt】DNSのAPIを使用して簡略化する](https://zenn.dev/wakyadev/articles/bb529c5c0e04a3)
 - [某N社のゲームソフトを検索できる機能を作ったハナシ](https://zenn.dev/wakyadev/articles/78d7277e1196ef)
 - [WordPressで任意のPHPコードを呼び出す方法](https://zenn.dev/wakyadev/articles/206019c5d287d4)
 <!-- BLOG-POST-LIST:END -->
 
-# 🐙 Github Activities(Githubでの活動)
+## 🐙 Github Activities(Githubでの活動)
 <div align="left"> 
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=wakyadev&theme=light&layout=compact" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakyadev&theme=light&layout=compact" />
 </div>
 
-# 🏃 Other Activities(その他の活動)
-## ⌨ Developed Apps(個人開発アプリ)
+## 🏃 Other Activities(その他の活動)
+### ⌨ Developed Apps(個人開発アプリ)
 - [任天堂製品検索アプリ(Nintendo Products Search App)](https://search-nintendo.wakyadev.com)
-## 🖊️ Contributed Articles(寄稿)
-### NDW(Nintendo Dream Web)
+### 🖊️ Contributed Articles(寄稿)
+#### NDW(Nintendo Dream Web)
 - [任天堂ゆかりの地 社屋編　創業地から現在の開発棟まで、その歴史を知る！](https://www.ndw.jp/nintendo-kikaku-241117-01)
 etc...
