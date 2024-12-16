@@ -25,13 +25,13 @@ I'm a Application Developer and Test Engineer.
 ## 😍 Likes(趣味)
 - Video Games (mainly Nintendo titles)
 
-メインの趣味はゲームです。主に任天堂製品を触ってます。
+  メインの趣味はゲームです。主に任天堂製品を触ってます。
 - Web App Development
 
-Laravel等を使用して個人開発をしています。作成したWebアプリはその他の活動を参照ください。
+  Laravel等を使用して個人開発をしています。作成物はその他の活動を参照ください。
 - Running
 
-デスクワークは歩かなくなりがちなので、健康維持程度にランニングしてます。
+  デスクワークは歩かなくなりがちなので、健康維持程度にランニングしてます。
 
 ## 🌱 Skills(スキル)
 <div align="left"> 
@@ -93,8 +93,15 @@ Laravel等を使用して個人開発をしています。作成したWebアプ�
 </div>
 
 ## 🏃 Other Activities(その他の活動)
-### ⌨ Developed Apps(個人開発アプリ)
+### ⌨ Developed Products(個人開発物)
+#### Web Apps
 - [任天堂製品検索アプリ(Nintendo Products Search App)](https://search-nintendo.wakyadev.com)
+#### LINE Bot
+- [N社製品検索BOT(Nintendo Products Search Bot)](https://line.me/R/ti/p/@787njecx)
+#### X(Twitter) Bot
+- [N社製品お知らせBOT(Nintendo Products Reminder Bot)](https://x.com/Ninsoftware)
+
+  ※停止中
 ### 🖊️ Contributed Articles(寄稿)
 #### NDW(Nintendo Dream Web)
 - [任天堂ゆかりの地 社屋編　創業地から現在の開発棟まで、その歴史を知る！](https://www.ndw.jp/nintendo-kikaku-241117-01)
@@ -102,6 +109,6 @@ etc...
 ### 🖍️ LINE Stamps(LINEスタンプ)
 - [ぱっつんお団子](https://line.me/S/sticker/10886562/?lang=ja&utm_source=gnsh_stickerDetail)
 
-Digitalization and Release Work: wakya
-<br>Illustrations: My Wife
-<br>イラストは妻に描いてもらい、私は絵のスタンプ化や販売用アカウントの管理を行ってます。
+  Digitalization and Release Work: wakya
+  <br>Illustrations: My Wife
+  <br>イラストは妻に描いてもらい、私はイラストのスタンプ化や販売用アカウントの管理を行ってます。
