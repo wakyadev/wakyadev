@@ -99,3 +99,9 @@ Laravel等を使用して個人開発をしています。作成したWebアプ�
 #### NDW(Nintendo Dream Web)
 - [任天堂ゆかりの地 社屋編　創業地から現在の開発棟まで、その歴史を知る！](https://www.ndw.jp/nintendo-kikaku-241117-01)
 etc...
+### 🖍️ LINE Stamps(LINEスタンプ)
+- [ぱっつんお団子](https://line.me/S/sticker/10886562/?lang=ja&utm_source=gnsh_stickerDetail)
+
+Digitalization and Release Work: wakya
+<br>Illustrations: My Wife
+<br>イラストは妻に描いてもらい、私は絵のスタンプ化や販売用アカウントの管理を行ってます。
