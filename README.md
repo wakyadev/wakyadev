@@ -19,7 +19,7 @@ I'm a Application Developer and Test Engineer.
 |Item|Content|
 |---|---|
 |name|wakya (alias:イッキ)|
-|Github|https://github.com/wakyadev|
+|GitHub|https://github.com/wakyadev|
 |Zenn|https://zenn.dev/wakyadev|
 
 ## 😍 Likes(趣味)
