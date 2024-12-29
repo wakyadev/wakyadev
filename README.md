@@ -105,6 +105,8 @@ I'm a Application Developer and Test Engineer.
 ### 🖊️ Contributed Articles(寄稿)
 #### NDW(Nintendo Dream Web)
 - [任天堂ゆかりの地 社屋編　創業地から現在の開発棟まで、その歴史を知る！](https://www.ndw.jp/nintendo-kikaku-241117-01)
+- [任天堂ゆかりの地 工場編　ミュージアムに生まれ変わった宇治小倉工場の歴史も！](https://www.ndw.jp/nintendo-kikaku-241124)
+- [ニンテンドーミュージアムとあわせてめぐりたい周辺のスポットは？（京都・大阪）](https://www.ndw.jp/nintendo-kikaku-241228)
 etc...
 ### 🖍️ LINE Stamps(LINEスタンプ)
 - [ぱっつんお団子](https://line.me/S/sticker/10886562/?lang=ja&utm_source=gnsh_stickerDetail)
