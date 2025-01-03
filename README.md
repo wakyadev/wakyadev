@@ -14,7 +14,7 @@
 I'm a Application Developer and Test Engineer.
 
 2016年より7年間システムエンジニアを経験。現在はテストエンジニアとして活動しています。<br>
-鈍足ですが、個人開発も行ってます。
+スローペースですが、個人開発も行ってます。
 
 |Item|Content|
 |---|---|
