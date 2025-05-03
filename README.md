@@ -28,7 +28,7 @@ I'm a Application Developer and Test Engineer.
   メインの趣味はゲームです。主に任天堂製品を触ってます。
 - Web App Development
 
-  Laravel等を使用して個人開発をしています。作成物はその他の活動を参照ください。
+  Laravel等を使用して個人開発をしています。[個人開発物](#-developed-products個人開発物)を参照ください。
 - Running
 
   デスクワークは歩かなくなりがちなので、健康維持程度にランニングしてます。
@@ -79,7 +79,7 @@ I'm a Application Developer and Test Engineer.
     </a>
 </div>
 
-## 📃 Latest Posts(最近の投稿)
+## 📃 Zenn Latest Posts(最近のZennへの投稿)
 <!-- BLOG-POST-LIST:START -->
 - [【ChatGPTに訊く】GASを使用してグーグルスプレッドシートのデータから定期的にポスト&lpar;ツイート&rpar;する方法](https://zenn.dev/wakyadev/articles/535ee67525ea92)
 - [JSTQB FL合格への道](https://zenn.dev/wakyadev/articles/0fb0fd4d31f1a1)
@@ -94,23 +94,22 @@ I'm a Application Developer and Test Engineer.
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakyadev&theme=light&layout=compact" />
 </div>
 
-## 🏃 Other Activities(その他の活動)
-### ⌨ Developed Products(個人開発物)
-#### Web Apps
+## ⌨ Developed Products(個人開発物)
+### Web Apps
 - [任天堂製品検索アプリ(Nintendo Products Search App)](https://search-nintendo.wakyadev.com)
-#### LINE Bot
+### LINE Bot
 - [N社製品検索BOT(Nintendo Products Search Bot)](https://line.me/R/ti/p/@787njecx)
-#### X(Twitter) Bot
-- [N社製品お知らせBOT(Nintendo Products Reminder Bot)](https://x.com/Ninsoftware)
+### X(Twitter) Bot
+- [N社ソフト検索アプリ関連アカウント(Nintendo Products Search App Bot)](https://x.com/Ninsoftware)
 
-  ※停止中
-### 🖊️ Contributed Articles(寄稿)
-#### NDW(Nintendo Dream Web)
+## 🖊️ Web Writer(寄稿)
+### NDW(Nintendo Dream Web)
 - [任天堂ゆかりの地 社屋編　創業地から現在の開発棟まで、その歴史を知る！](https://www.ndw.jp/nintendo-kikaku-241117-01)
 - [任天堂ゆかりの地 工場編　ミュージアムに生まれ変わった宇治小倉工場の歴史も！](https://www.ndw.jp/nintendo-kikaku-241124)
 - [ニンテンドーミュージアムとあわせてめぐりたい周辺のスポットは？（京都・大阪）](https://www.ndw.jp/nintendo-kikaku-241228)
 etc...
-### 🖍️ LINE Stamps(LINEスタンプ)
+
+## 🖍️ LINE Stamps(LINEスタンプ)
 - [ぱっつんお団子](https://line.me/S/sticker/10886562/?lang=ja&utm_source=gnsh_stickerDetail)
 
   Digitalization and Release Work: wakya
