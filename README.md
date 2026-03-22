@@ -76,4 +76,4 @@ Your support helps me cover server costs and stay motivated to keep these projec
 もし私のアプリなどがお役に立ちましたら、活動をサポートしていただけると幸いです。<br>
 皆様からのご支援は、サーバー費用を維持させていくため、大切に使用させていただきます。
 
-[Buy me a coffee](buymeacoffee.com/wakyadev)
+[Buy me a coffee](https://buymeacoffee.com/wakyadev)
