@@ -56,11 +56,11 @@ etc...
 
 ## 📃 Zenn Latest Posts(最近のZennへの投稿)
 <!-- BLOG-POST-LIST:START -->
+- [続・某N社の製品を検索できる機能を作ったハナシ 概要編](https://zenn.dev/wakyadev/articles/ceb398b08e9a8b)
 - [Ubuntuをアップデートしたら外部ネットワークが使えなくなった](https://zenn.dev/wakyadev/articles/8bec460d506add)
 - [【ChatGPTに訊く】GASを使用してグーグルスプレッドシートのデータから定期的にポスト&lpar;ツイート&rpar;する方法](https://zenn.dev/wakyadev/articles/535ee67525ea92)
 - [JSTQB FL合格への道](https://zenn.dev/wakyadev/articles/0fb0fd4d31f1a1)
 - [【Let’s Encrypt】DNSのAPIを使用して証明書更新を簡略化する](https://zenn.dev/wakyadev/articles/bb529c5c0e04a3)
-- [某N社のゲームソフトを検索できる機能を作ったハナシ](https://zenn.dev/wakyadev/articles/78d7277e1196ef)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Skills(スキル)
