@@ -35,6 +35,7 @@ Systems Engineer & Nintendo Enthusiast
 - [任天堂ゆかりの地 社屋編　創業地から現在の開発棟まで、その歴史を知る！](https://www.ndw.jp/nintendo-kikaku-241117-01)
 - [任天堂ゆかりの地 工場編　ミュージアムに生まれ変わった宇治小倉工場の歴史も！](https://www.ndw.jp/nintendo-kikaku-241124)
 - [ニンテンドーミュージアムとあわせてめぐりたい周辺のスポットは？（京都・大阪）](https://www.ndw.jp/nintendo-kikaku-241228)
+- [任天堂が技術支援した百人一首の施設「時雨殿」とは？ ニンテンドーミュージアム「しぐれでんSP」との関係を知る！](https://www.ndw.jp/nintendo-kikaku-250202/)
 
 #### 任天堂ゲーム月別発売リスト
 - [任天堂ゲーム月別発売リスト](https://www.ndw.jp/category/%e8%b3%87%e6%96%99/soft-list-monthly/)
