@@ -57,11 +57,11 @@ etc...
 
 ## 📃 Zenn Latest Posts(最近のZennへの投稿)
 <!-- BLOG-POST-LIST:START -->
+- [【フロントエンド編】Vanilla JSからNext.jsへ-フロントエンド刷新](https://zenn.dev/wakyadev/articles/cd092df8e9a52c)
 - [【アーキテクチャ編】Laravel + Next.js + Docker の4コンテナ構成を解説](https://zenn.dev/wakyadev/articles/b47af9e1ffdd8c)
 - [【概要編】個人開発サイトをNext.js + Laravelでフルリニューアルしたハナシ](https://zenn.dev/wakyadev/articles/ceb398b08e9a8b)
 - [Ubuntuをアップデートしたら外部ネットワークが使えなくなった](https://zenn.dev/wakyadev/articles/8bec460d506add)
 - [【ChatGPTに訊く】GASを使用してグーグルスプレッドシートのデータから定期的にポスト&lpar;ツイート&rpar;する方法](https://zenn.dev/wakyadev/articles/535ee67525ea92)
-- [JSTQB FL合格への道](https://zenn.dev/wakyadev/articles/0fb0fd4d31f1a1)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌱 Skills(スキル)
